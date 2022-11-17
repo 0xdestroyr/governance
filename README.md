@@ -5,4 +5,4 @@ This repo is meant to be a place for storing materials related to governance and
 The Beigepaper outlines the governance processes for the Rook DAO
 
 ## KIPs 
-Keeper Improvement Proposals are all historic proposals that have gone to vote
+Keeper Improvement Proposals are all proposals that been put up for vote by the DAO
